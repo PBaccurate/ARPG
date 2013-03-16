@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Scripts\SpawnController.js">
+    <Files>
+      <File FileName="Assets\Game\Sozai\monstercave\Monstergame\character1\Scripts\CharacterControl.js" Line="14" Column="44" />
+      <File FileName="Assets\Game\Scripts\SpawnController.js" Line="3" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
